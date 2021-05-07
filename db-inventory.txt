@@ -1,0 +1,3 @@
+
+Nama Perangkat :cisco asa 5511
+Lokasi :gedung c
